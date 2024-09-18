@@ -4,7 +4,7 @@ esse projeto é uma implementação de um servico mqtt (com broker e publisher) 
 
 com um client no arduino para comando de ar condicionados samsung
 
-##libs utilizadas: 
+## libs utilizadas: 
 
 (nodejs)
 
